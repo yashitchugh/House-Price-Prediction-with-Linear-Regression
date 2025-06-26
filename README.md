@@ -8,9 +8,8 @@ This project builds a **Linear Regression** model using Python and scikit-learn 
 
 The dataset contains details about residential properties, including:
 
-- `area`: Size in square feet
+- `area`: Target variable 
 - `mainroad`, `guestroom`, `hotwaterheating`, `airconditioning`, `prefarea`: Binary features (Yes/No)
-- `price`: Target variable
 
 ---
 

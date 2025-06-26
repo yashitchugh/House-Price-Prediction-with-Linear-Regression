@@ -84,8 +84,7 @@ pd.DataFrame({'Feature': X.columns, 'Coefficient': model.coef_})
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/house-price-regression.git
-cd house-price-regression
+git clone [https://github.com/yashitchugh/House-Price-Prediction-with-Linear-Regression]
 
 # Install dependencies
 pip install pandas scikit-learn matplotlib
